@@ -1,6 +1,6 @@
 ---
 title: "Your blog post title"
-date: 2019-9-19
+date: 9999-99-99
 ---
 
 Here is my first blog post.
